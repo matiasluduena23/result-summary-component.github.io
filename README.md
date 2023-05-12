@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/matiasluduena23/result-summary-component.github.io)
+- Live Site URL: [Resultsummary](https://matiasluduena23.github.io/result-summary-component.github.io/)
 
 ## My process
 
@@ -56,7 +56,7 @@ I learned how to use the "aspect-ratio" to make a circle perfect and also how to
 
 ### Useful resources
 
-I used the kevin powell video to make a perfect circle of the result card. He is a great teacher its channel [Kevin Powell](https://www.youtube.com/@KevinPowell)
+I used the kevin powell video to make a perfect circle of the result card. He is a great teacher. It's channel [Kevin Powell](https://www.youtube.com/@KevinPowell)
 
 ## Author
 
