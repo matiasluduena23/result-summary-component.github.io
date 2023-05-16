@@ -26,6 +26,7 @@ const printHtml = (data) =>  {
     const wrapTask = document.createElement('div');
     const img = document.createElement('img');
     img.classList = "icon-svg";
+    img.alt = "icon-image";
     const pTask = document.createElement('p');
     const wrapScore = document.createElement('div');
     const pScore = document.createElement('p');

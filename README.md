@@ -46,12 +46,14 @@ Users should be able to:
 - Mobile-first workflow
 - Sass
 - Vanilla Javascript
+- Webpack
 
 
 
 ### What I learned
 
 I learned how to use the "aspect-ratio" to make a circle perfect and also how to fetch data from a external file with Vanilla Javascript.
+I print the HTML with the json file
 
 
 ### Useful resources
