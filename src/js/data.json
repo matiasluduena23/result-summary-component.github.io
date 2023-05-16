@@ -2,7 +2,7 @@
   {
     "category": "Reaction",
     "score": 80,
-    "icon": "./dist/assets/images/icon-reaction.svg"
+    "icon": "./src/assets/images/icon-reaction.svg"
   },
   {
     "category": "Memory",

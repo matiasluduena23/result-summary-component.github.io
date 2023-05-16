@@ -1,9 +1,12 @@
 
-fetch('./data/data.json')
-.then(response =>  response.json())
-.then((data) => {
-  printHtml(data);
-})
+import './style/main.scss';
+
+import Data from './js/data.json';
+
+import iconMemory from './assets/images/icon-memory.svg'
+import iconReaction from './assets/images/icon-reaction.svg'
+import iconVerbal from './assets/images/icon-verbal.svg'
+import iconVisual from './assets/images/icon-visual.svg'
 
 
 
@@ -22,6 +25,7 @@ const printHtml = (data) =>  {
     const wrapSumary = document.createElement('div');
     const wrapTask = document.createElement('div');
     const img = document.createElement('img');
+    img.classList = "icon-svg";
     const pTask = document.createElement('p');
     const wrapScore = document.createElement('div');
     const pScore = document.createElement('p');
@@ -49,4 +53,11 @@ const printHtml = (data) =>  {
   
 }
 
+printHtml(Data);
 
+let svg = document.querySelectorAll(".icon-svg");
+
+svg[0].src = iconReaction;
+svg[1].src = iconMemory;
+svg[2].src = iconVerbal;
+svg[3].src = iconVisual;
